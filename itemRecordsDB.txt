@@ -1,0 +1,9 @@
+f1 Apple Fruits 100 28
+f2 Orange Fruits 60 37
+f3 Mango Fruits 40 53
+f4 Banana Fruits 30 46
+v1 Carrot Vegetables 50 16
+v2 Potato Vegetables 20 72
+v3 Onion Vegetables 40 33
+v4 Tomato Vegetables 25 77
+v5 Brinjal Vegetables 30 28

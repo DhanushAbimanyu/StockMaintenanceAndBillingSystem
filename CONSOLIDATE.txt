@@ -1,0 +1,73 @@
+
+
+
+
+
+User Name : Tamil		Address : Dharmapuri   		Mon Nov 25 22:38:50 2019
+
+Bill Number :3105114509
+
+----------------------------------------------------------------------------------------------------
+Item ID		Item Name	Item Category	Item Rate	Item Quantity       Total
+----------------------------------------------------------------------------------------------------
+f1		Apple		Fruits		100		5		500	
+f3		Mango		Fruits		40		3		120	
+v1		Carrot		Vegetables	50		2		100	
+v3		Onion		Vegetables	40		3		120	
+
+								 GRAND TOTAL=840
+----------------------------------------------------------------------------------------------------
+
+
+
+
+User Name : Dhanush		Address : Salem   		Mon Nov 25 22:44:38 2019
+
+Bill Number :3218719403
+
+----------------------------------------------------------------------------------------------------
+Item ID		Item Name	Item Category		Item Rate	Item Quantity       Total
+----------------------------------------------------------------------------------------------------
+v5		Brinjal		Vegetables		30		2		60	
+v3		Onion		Vegetables		40		3		120	
+f3		Mango		Fruits			40		2		80	
+f4		Banana		Fruits			30		3		90	
+
+									 GRAND TOTAL=350
+----------------------------------------------------------------------------------------------------
+
+
+
+
+User Name : Abishek		Address : Erode   		Mon Nov 25 22:45:36 2019
+
+Bill Number :3237720218
+
+----------------------------------------------------------------------------------------------------
+Item ID		Item Name	Item Category		Item Rate	Item Quantity       Total
+----------------------------------------------------------------------------------------------------
+f4		Banana		Fruits			30		1		30	
+v2		Potato		Vegetables		20		3		60	
+v4		Tomato		Vegetables		25		3		75	
+f3		Mango		Fruits			40		2		80	
+
+									 GRAND TOTAL=245
+----------------------------------------------------------------------------------------------------
+
+
+
+
+User Name : Dhanush		Address : Salem   		Mon Nov 25 22:48:17 2019
+
+Bill Number :13514008
+
+----------------------------------------------------------------------------------------------------
+Item ID		Item Name	Item Category		    Item Rate	Item Quantity       Total
+----------------------------------------------------------------------------------------------------
+f1		Apple		Fruits			100		2		200	
+f2		Orange		Fruits			60		3		180	
+v3		Onion		Vegetables		40		1		40	
+v1		Carrot		Vegetables		50		2		100	
+
+									 GRAND TOTAL=520
+----------------------------------------------------------------------------------------------------

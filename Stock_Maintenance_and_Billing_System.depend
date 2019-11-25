@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1574702012 source:c:\users\dhanu\onedrive\documents\stock_maintenacnce_and_billing_system\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
